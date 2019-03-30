@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "enabled": false,
+        "name": "Antivax",
+        "twitter_query": "\"antivax\"%20OR%20\"antivaxx\"%20OR%20\"anti-vax\"%20OR%20\"anti-vaxx\"%20OR%20\"anti vax\"%20OR%20\"anti vaxx\"%20OR%20\"antivaxer\"%20OR%20\"antivaxxer\"%20OR%20\"anti-vaxer\"%20OR%20\"anti-vaxxer\"%20OR%20\"anti vaxer\"%20OR%20\"anti vaxxer\"%20OR%20\"antivaxers\"%20OR%20\"antivaxxers\"%20OR%20\"anti-vaxers\"%20OR%20\"anti-vaxxers\"%20OR%20\"anti vaxers\"%20OR%20\"anti vaxxers\"%20OR%20\"anti vaccine\"",
+        "keyword_regex": "anti.*va(x+|c+)",
+        "cities_list": "cities_us_eu",
+        "tweet_count_range": {
+            "min": 50,
+            "max": 200
+        }
+    },
+    {
+        "id": 1,
+        "enabled": false,
+        "name": "Global warming",
+        "twitter_query": "\"globalwarming\"%20OR%20\"global warming\"%20OR%20\"climatechange\"%20OR%20\"climate change\"",
+        "keyword_regex": "(climate.*change)|(global.*warming)",
+        "cities_list": "cities_global",
+        "tweet_count_range": {
+            "min": 50,
+            "max": 200
+        }
+    },
+    {
+        "id": 2,
+        "enabled": false,
+        "name": "Flat earth",
+        "twitter_query": "\"flatearth\"%20OR%20\"flat-earth\"%20OR%20\"flat earth\"%20OR%20\"flatearther\"%20OR%20\"flat-earther\"%20OR%20\"flat earther\"%20OR%20\"flatearthers\"%20OR%20\"flat-earthers\"%20OR%20\"flat earthers\"",
+        "keyword_regex": "flat.*earth",
+        "cities_list": "cities_us_eu",
+        "tweet_count_range": {
+            "min": 50,
+            "max": 200
+        }
+    },
+    {
+        "id": 3,
+        "enabled": true,
+        "name": "Trump",
+        "twitter_query": "trump",
+        "keyword_regex": "trump",
+        "cities_list": "cities_us_eu",
+        "tweet_count_range": {
+            "min": 50,
+            "max": 200
+        }
+    },
+    {
+        "id": 4,
+        "enabled": false,
+        "name": "Privacy",
+        "twitter_query": "\"%23privacy\"%20OR%20\"%23netneutrality\"%20OR%20\"net neutrality\"%20OR%20\"net-neutrality\"%20OR%20\"%23gdpr\"%20OR%20\"%23savetheinternet\"",
+        "keyword_regex": "(privacy)|(net.*neutrality)|(gdpr)|(save.*the.*internet)",
+        "cities_list": "cities_global",
+        "tweet_count_range": {
+            "min": 50,
+            "max": 200
+        }
+    },
+    {
+        "id": 5,
+        "enabled": true,
+        "name": "Brexit",
+        "twitter_query": "\"brexit\"",
+        "keyword_regex": "brexit",
+        "cities_list": "cities_global",
+        "tweet_count_range": {
+            "min": 50,
+            "max": 200
+        }
+    },
+    {
+        "id": 1337,
+        "enabled": true,
+        "name": "FridayForFuture",
+        "twitter_query": "\"fridayforfuture\"",
+        "keyword_regex": "friday.*future",
+        "cities_list": "cities_us_eu",
+        "tweet_count_range": {
+            "min": 50,
+            "max": 200
+        }
+    }
+]

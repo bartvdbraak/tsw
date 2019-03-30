@@ -1,0 +1,250 @@
+[
+    {
+        "id": 0,
+        "city": "Moscow",
+        "location": {
+            "latitude": 55.7507178,
+            "longitude": 37.6176606
+        }
+    },
+    {
+        "id": 1,
+        "city": "Saint Petersburg",
+        "location": {
+            "latitude": 59.938732,
+            "longitude": 30.316229
+        }
+    },
+    {
+        "id": 2,
+        "city": "Istanbul",
+        "location": {
+            "latitude": 41.0096334,
+            "longitude": 28.9651646
+        }
+    },
+    {
+        "id": 3,
+        "city": "London",
+        "location": {
+            "latitude": 51.4893335,
+            "longitude": -0.1440551
+        }
+    },
+    {
+        "id": 4,
+        "city": "Berlin",
+        "location": {
+            "latitude": 52.5170365,
+            "longitude": 13.3888599
+        }
+    },
+    {   
+        "id": 5,
+        "city": "Madrid",
+        "location": {
+            "latitude": 40.4167047,
+            "longitude": -3.7035825
+        }
+    },
+    {   
+        "id": 6,
+        "city": "Kiev",
+        "location": {
+            "latitude": 50.4500644,
+            "longitude": 30.5241037
+        }
+    },
+    {
+        "id": 7,
+        "city": "Rome",
+        "location": {
+            "latitude": 41.894802,
+            "longitude": 12.4853384
+        }
+    },
+    {   
+        "id": 8,
+        "city": "Paris",
+        "location": {
+            "latitude": 48.8566101,
+            "longitude": 2.3514992
+        }
+    },
+    {   
+        "id": 9,
+        "city": "Bucharest",
+        "location": {
+            "latitude": 44.4361414,
+            "longitude": 26.1027202
+        }
+    },
+    {   
+        "id": 10,
+        "city": "Minsk",
+        "location": {
+            "latitude": 53.902334,
+            "longitude": 27.5618791
+        }
+    },
+    {   
+        "id": 11,
+        "city": "Karachi",
+        "location": {
+            "latitude": 24.8667795,
+            "longitude": 67.0311286
+        }
+    },
+    {   
+        "id": 12,
+        "city": "Delhi",
+        "location": {
+            "latitude": 28.6517178,
+            "longitude": 77.2219388
+        }
+    },
+    {   
+        "id": 13,
+        "city": "Dhaka",
+        "location": {
+            "latitude": 23.7593572,
+            "longitude": 90.3788136
+        }
+    },
+    {   
+        "id": 14,
+        "city": "Hong Kong",
+        "location": {
+            "latitude": 22.350627,
+            "longitude": 114.1849161
+        }
+    },
+    {   
+        "id": 15,
+        "city": "Tokyo",
+        "location": {
+            "latitude": 35.6828387,
+            "longitude": 139.7594549
+        }
+    },
+    {   
+        "id": 16,
+        "city": "Seoul",
+        "location": {
+            "latitude": 37.5666791,
+            "longitude": 126.9782914
+        }
+    },
+    {   
+        "id": 17,
+        "city": "Sao Paulo",
+        "location": {
+            "latitude": -21.9549806,
+            "longitude": -49.0232348
+        }
+    },
+    {   
+        "id": 18,
+        "city": "Mexico City",
+        "location": {
+            "latitude": 19.4326009,
+            "longitude": -99.1333416
+        }
+    },
+    {   
+        "id": 19,
+        "city": "Lima",
+        "location": {
+            "latitude": -12.0621065,
+            "longitude": -77.0365256
+        }
+    },
+    {   
+        "id": 20,
+        "city": "Bogota",
+        "location": {
+            "latitude": 4.5980772,
+            "longitude": -74.0761028
+        }
+    },
+    {   
+        "id": 21,
+        "city": "Rio de Janeiro",
+        "location": {
+            "latitude": -22.9110137,
+            "longitude": -43.2093727
+        }
+    },
+    {   
+        "id": 22,
+        "city": "Santiago",
+        "location": {
+            "latitude": -33.4377968,
+            "longitude": -70.6504451
+        }
+    },
+    {   
+        "id": 23,
+        "city": "New York City",
+        "location": {
+            "latitude": 40.7308619,
+            "longitude": -73.9871558
+        }
+    },
+    {   
+        "id": 24,
+        "city": "Los Angeles",
+        "location": {
+            "latitude": 34.0536834,
+            "longitude": -118.2427669
+        }
+    },
+    {   
+        "id": 25,
+        "city": "Toronto",
+        "location": {
+            "latitude": 43.653963,
+            "longitude": -79.387207
+        }
+    },
+    {   
+        "id": 26,
+        "city": "Chicago",
+        "location": {
+            "latitude": 41.8755616,
+            "longitude": -87.6244212
+        }
+    },
+    {   
+        "id": 27,
+        "city": "Phoenix",
+        "location": {
+            "latitude": 33.4484367,
+            "longitude": -112.0741417
+        }
+    },
+    {   
+        "id": 28,
+        "city": "Houston",
+        "location": {
+            "latitude": 29.7589382,
+            "longitude": -95.3676974
+        }
+    },
+        {   
+        "id": 29,
+        "city": "Sydney",
+        "location": {
+            "latitude": -33.8548157,
+            "longitude": 151.2164539
+        }
+    },
+        {   
+        "id": 30,
+        "city": "Auckland",
+        "location": {
+            "latitude": -36.8534665,
+            "longitude": 174.7655514
+        }
+    }
+]

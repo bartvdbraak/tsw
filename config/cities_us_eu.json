@@ -1,0 +1,281 @@
+[
+    {
+        "id": 0,
+        "city": "London",
+        "location": {
+            "latitude": 51.4893335,
+            "longitude": -0.1440551
+        },
+        "cluster": "European"
+    },
+    {
+        "id": 1,
+        "city": "Berlin",
+        "location": {
+            "latitude": 52.5170365,
+            "longitude": 13.3888599
+        },
+        "cluster": "European"
+    },
+    {
+        "id": 2,
+        "city": "Madrid",
+        "location": {
+            "latitude": 40.4167047,
+            "longitude": -3.7035825
+        },
+        "cluster": "European"
+    },
+    {
+        "id": 3,
+        "city": "Rome",
+        "location": {
+            "latitude": 41.894802,
+            "longitude": 12.4853384
+        },
+        "cluster": "European"
+    },
+    {
+        "id": 4,
+        "city": "Paris",
+        "location": {
+            "latitude": 48.8566101,
+            "longitude": 2.3514992
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 5,
+        "city": "Bucharest",
+        "location": {
+            "latitude": 44.4361414,
+            "longitude": 26.1027202
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 6,
+        "city": "Vienna",
+        "location": {
+            "latitude": 48.2083537,
+            "longitude": 16.3725042
+        },
+        "cluster": "European"
+    },
+    {
+        "id": 7,
+        "city": "Hamburg",
+        "location": {
+            "latitude": 53.550341,
+            "longitude": 10.000654
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 8,
+        "city": "Warsaw",
+        "location": {
+            "latitude": 52.2319237,
+            "longitude": 21.0067265
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 9,
+        "city": "Budapest",
+        "location": {
+            "latitude": 47.4983815,
+            "longitude": 19.0404707
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 10,
+        "city": "Barcelona",
+        "location": {
+            "latitude": 41.3828939,
+            "longitude": 2.1774322
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 11,
+        "city": "Munich",
+        "location": {
+            "latitude": 48.1371079,
+            "longitude": 11.5753822
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 12,
+        "city": "Milan",
+        "location": {
+            "latitude": 45.4667971,
+            "longitude": 9.1904984
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 13,
+        "city": "Prague",
+        "location": {
+            "latitude": 50.0874654,
+            "longitude": 14.4212535
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 14,
+        "city": "Sofia",
+        "location": {
+            "latitude": 42.6978634,
+            "longitude": 23.3221789
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 15,
+        "city": "Brussels",
+        "location": {
+            "latitude": 50.8465573,
+            "longitude": 4.351697
+        },
+        "cluster": "European"
+    },
+    {   
+        "id": 16,
+        "city": "New York City",
+        "location": {
+            "latitude": 40.7308619,
+            "longitude": -73.9871558
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 17,
+        "city": "Los Angeles",
+        "location": {
+            "latitude": 34.0537,
+            "longitude": -118.243
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 18,
+        "city": "Chicago",
+        "location": {
+            "latitude": 41.8755616,
+            "longitude": -87.6244212
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 19,
+        "city": "Houston",
+        "location": {
+            "latitude": 29.7589382,
+            "longitude": -95.3676974
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 20,
+        "city": "Phoenix",
+        "location": {
+            "latitude": 33.4484367,
+            "longitude": -112.0741417
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 21,
+        "city": "Philadelphia",
+        "location": {
+            "latitude": 39.9524152,
+            "longitude": -75.1635755
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 22,
+        "city": "San Antonio",
+        "location": {
+            "latitude": 29.4246002,
+            "longitude": -98.4951405
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 23,
+        "city": "San Diego",
+        "location": {
+            "latitude": 32.7174209,
+            "longitude": -117.1627714
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 24,
+        "city": "Dallas",
+        "location": {
+            "latitude": 32.7762719,
+            "longitude": -96.7968559
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 25,
+        "city": "Austin",
+        "location": {
+            "latitude": 30.2711286,
+            "longitude": -97.7436995
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 26,
+        "city": "Jacksonville",
+        "location": {
+            "latitude": 30.3321838,
+            "longitude": -81.655651
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 27,
+        "city": "San Francisco",
+        "location": {
+            "latitude": 37.7792808,
+            "longitude": -122.4192363
+        },
+        "cluster": "United States"
+    },
+    {   
+        "id": 28,
+        "city": "Columbus",
+        "location": {
+            "latitude": 39.9622601,
+            "longitude": -83.0007065
+        },
+        "cluster": "United States"
+    },
+        {   
+        "id": 29,
+        "city": "Indianapolis",
+        "location": {
+            "latitude": 39.7683331,
+            "longitude": -86.1583502
+        },
+        "cluster": "United States"
+    },
+        {   
+        "id": 30,
+        "city": "Charlotte",
+        "location": {
+            "latitude": 35.2270869,
+            "longitude": -80.8431268
+        },
+        "cluster": "United States"
+    }
+]
